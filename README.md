@@ -16,7 +16,7 @@ O projeto foi feito em React e consiste em uma página de planejamento de viagen
 
 ## Imagens do projeto em diferentes tamanhos de tela
 
-<img src="./src/img/readme-img/tela-menor.png" alt="Outras imagens do projeto" width="430px" height="auto"></img>
-<img src="./src/img/readme-img/tela-menor2.png" alt="Outras imagens do projeto" width="430px" height="auto"></img>
-<img src="./src/img/readme-img/tela-menor3.png" alt="Outras imagens do projeto" width="430px" height="auto"></img>
-<img src="./src/img/readme-img/footer.png" alt="Outras imagens do projeto" width="430px" height="auto"></img>
+<img src="./src/img/readme-img/tela-menor.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
+<img src="./src/img/readme-img/tela-menor2.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
+<img src="./src/img/readme-img/tela-menor3.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
+<img src="./src/img/readme-img/footer.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>

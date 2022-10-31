@@ -119,7 +119,7 @@ function App() {
                 <label htmlFor="tel">Telefone*</label> <br></br>
                 <input type="tel" id="tel" name="tel" maxLength="15" 
                   placeholder="Apenas números são permitidos" required onChange={mascaraTel}></input> <br></br><br></br>
-                <label htmlFor="cpf">CPF *</label> <br></br>
+                <label htmlFor="cpf">CPF*</label> <br></br>
                 <input type="tel" id="cpf" name="cpf" maxLength="14" 
                   placeholder="Apenas números são permitidos" required onChange={mascaraCPF}></input> <br></br><br></br>
               </div>

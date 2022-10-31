@@ -9,8 +9,8 @@ function Aside() {
     return (
         <aside>
         <div className="img-container">
-          <img src={cristo} alt="Crito Redentor - Rio de Janeiro/RJ"></img>
-          <div className="img-description">Crito Redentor - Rio de Janeiro/RJ</div>
+          <img src={cristo} alt="Cristo Redentor - Rio de Janeiro/RJ"></img>
+          <div className="img-description">Cristo Redentor - Rio de Janeiro/RJ</div>
         </div>
 
         <div className="img-container">
@@ -24,8 +24,8 @@ function Aside() {
         </div>
 
         <div className="img-container">
-          <img src={camburi} alt="Praia de Cambur - Vitória/ES"></img>
-          <div className="img-description">Praia de Cambur - Vitória/ES</div>
+          <img src={camburi} alt="Praia de Camburi - Vitória/ES"></img>
+          <div className="img-description">Praia de Camburi - Vitória/ES</div>
         </div>
       </aside>
     )

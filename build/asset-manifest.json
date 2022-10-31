@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5b9dc13.css",
-    "main.js": "/static/js/main.94b4a58c.js",
-    "static/media/porto-de-galinhas.jpg": "/static/media/porto-de-galinhas.5e25ad40e062a182d6ee.jpg",
-    "static/media/cristo.jpg": "/static/media/cristo.3be4ea66d7396a5ea005.jpg",
-    "static/media/camburi.jpg": "/static/media/camburi.6a81179d84a2c7ccbdd4.jpg",
-    "static/media/convento.jpg": "/static/media/convento.64f77cd54a3e16e1c91f.jpg",
-    "index.html": "/index.html",
-    "main.d5b9dc13.css.map": "/static/css/main.d5b9dc13.css.map",
-    "main.94b4a58c.js.map": "/static/js/main.94b4a58c.js.map"
+    "main.css": "./static/css/main.d5b9dc13.css",
+    "main.js": "./static/js/main.86f426cf.js",
+    "static/media/porto-de-galinhas.jpg": "./static/media/porto-de-galinhas.5e25ad40e062a182d6ee.jpg",
+    "static/media/cristo.jpg": "./static/media/cristo.3be4ea66d7396a5ea005.jpg",
+    "static/media/camburi.jpg": "./static/media/camburi.6a81179d84a2c7ccbdd4.jpg",
+    "static/media/convento.jpg": "./static/media/convento.64f77cd54a3e16e1c91f.jpg",
+    "index.html": "./index.html",
+    "main.d5b9dc13.css.map": "./static/css/main.d5b9dc13.css.map",
+    "main.86f426cf.js.map": "./static/js/main.86f426cf.js.map"
   },
   "entrypoints": [
     "static/css/main.d5b9dc13.css",
-    "static/js/main.94b4a58c.js"
+    "static/js/main.86f426cf.js"
   ]
 }

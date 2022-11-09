@@ -15,7 +15,7 @@ O projeto foi feito em React e consiste em uma página de planejamento de viagen
 - Manipulação de DOM
 
 ## Imagens do projeto em diferentes tamanhos de tela
-<<<<<<< HEAD
+
 
 <img src="./src/img/readme-img/tela-menor.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
 <img src="./src/img/readme-img/tela-menor2.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
@@ -24,10 +24,5 @@ O projeto foi feito em React e consiste em uma página de planejamento de viagen
 <img src="./src/img/readme-img/footer.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
 <img src="./src/img/readme-img/footer-menor.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
 
-=======
 
-<img src="./src/img/readme-img/tela-menor.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
-<img src="./src/img/readme-img/tela-menor2.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
-<img src="./src/img/readme-img/tela-menor3.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
-<img src="./src/img/readme-img/footer.png" alt="Outras imagens do projeto" width="400px" height="auto"></img>
->>>>>>> 8d3e322dde933afcd948e58eb4a50f225f8bd150
+

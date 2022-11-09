@@ -87,7 +87,7 @@ function App() {
   }
 
   return (
-    <div>
+    <div className="page">
 
       <nav>
         <a className="nav-links" href="http://localhost:3000/">Home</a>

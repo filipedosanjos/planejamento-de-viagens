@@ -10,7 +10,7 @@ O projeto foi feito em React e consiste em uma página de planejamento de viagen
 - Projeto responsivo com uso de Media Queries e outras técnicas de CSS
 - Criação de componetes para futura reutilização
 - Código criado para possibilitar a digitação de apenas números nos campos de Telefone e CPF
-- Código criado para máscaras de preenchimento nos campos de Telefone e CPF
+- Código criado para máscaras de preenchimento nos campos de Telefone e CPF utilizando RegExp
 - Consumo de API da Amazon para obtenção de dados de Países e Cidades
 - Manipulação de DOM
 
